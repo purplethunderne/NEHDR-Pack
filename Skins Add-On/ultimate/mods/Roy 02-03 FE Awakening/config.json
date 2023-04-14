@@ -1,0 +1,10 @@
+{
+    "new-dir-files": {
+        "fighter/roy/c02": [
+            "effect/fighter/roy/ef_roy_c02.eff"
+        ],
+		"fighter/roy/c03": [
+            "effect/fighter/roy/ef_roy_c03.eff"
+        ]
+    }
+}

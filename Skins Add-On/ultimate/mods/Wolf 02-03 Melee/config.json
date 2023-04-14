@@ -1,0 +1,26 @@
+{
+	"new-dir-files": {
+		"fighter/wolf/c02": [
+			"fighter/wolf/model/body/c02/body_fox_001_col.nutexb",
+			"fighter/wolf/model/body/c02/body_fox_001_nor.nutexb",
+			"fighter/wolf/model/body/c02/body_fox_001_prm.nutexb",
+			"fighter/wolf/model/body/c02/def_fox_001_col.nutexb",
+			"fighter/wolf/model/body/c02/def_fox_001_nor.nutexb",
+			"fighter/wolf/model/body/c02/def_fox_001_prm.nutexb",
+			"fighter/wolf/model/body/c02/fox_alp_001_col.nutexb",
+			"fighter/wolf/model/body/c02/fox_alp_001_nor.nutexb",
+			"fighter/wolf/model/body/c02/fox_alp_001_prm.nutexb"
+		],
+		"fighter/wolf/c03": [
+			"fighter/wolf/model/body/c03/body_fox_001_col.nutexb",
+			"fighter/wolf/model/body/c03/body_fox_001_nor.nutexb",
+			"fighter/wolf/model/body/c03/body_fox_001_prm.nutexb",
+			"fighter/wolf/model/body/c03/def_fox_001_col.nutexb",
+			"fighter/wolf/model/body/c03/def_fox_001_nor.nutexb",
+			"fighter/wolf/model/body/c03/def_fox_001_prm.nutexb",
+			"fighter/wolf/model/body/c03/fox_alp_001_col.nutexb",
+			"fighter/wolf/model/body/c03/fox_alp_001_nor.nutexb",
+			"fighter/wolf/model/body/c03/fox_alp_001_prm.nutexb"
+		]
+	}
+}

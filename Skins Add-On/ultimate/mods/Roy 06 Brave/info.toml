@@ -1,0 +1,7 @@
+display_name="Marquess of Ostia Roy (Brave)"
+authors = "Blaze240"
+version = "1.0"
+description = """
+Palette swap based off Brave Hector from Fire Emblem Heroes. Goes over c03 by default.
+"""
+category="Fighter"

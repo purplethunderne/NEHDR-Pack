@@ -1,0 +1,14 @@
+{
+    "new-dir-files": {
+        "fighter/edge/c05": 
+        [
+            "fighter/edge/model/body/c05/def_edge_004_col.nutexb",
+            "fighter/edge/model/body/c05/def_edge_004_nor.nutexb",
+            "fighter/edge/model/body/c05/def_edge_004_prm.nutexb",
+            "fighter/edge/model/body/c05/def_edge_004_emi.nutexb",
+            "fighter/edge/model/body/c05/def_edge_005_col.nutexb",
+            "fighter/edge/model/body/c05/def_edge_005_nor.nutexb",
+            "fighter/edge/model/body/c05/def_edge_005_prm.nutexb"
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+display_name="Marquess of Ostia Roy (Original)"
+authors = "Blaze240"
+version = "1.0"
+description = """
+Palette swap based off Hector from Fire Emblem: The Blazing Blade. Goes over c01 by default.
+"""
+category="Fighter"
