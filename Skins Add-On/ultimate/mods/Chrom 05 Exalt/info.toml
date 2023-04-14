@@ -1,0 +1,8 @@
+display_name = "Exalt Chrom"
+authors = "Cattail (@CattailXC), LN (@LN_310)"
+version = "1.0.0"
+description = """
+Chrom's Exalted robe from Fire Emblem: Warriors!
+Includes PRM, UI, physics, and fuzzy fur. 
+"""
+category = "Fighter"

@@ -1,0 +1,68 @@
+{
+    "new-dir-files": {
+        "fighter/captain/c00": [
+        "fighter/captain/model/body/c00/def_demon_coat_001_col.nutexb",
+        "fighter/captain/model/body/c00/def_demon_coat_001_nor.nutexb",
+        "fighter/captain/model/body/c00/def_demon_coat_001_prm.nutexb",
+        "fighter/captain/model/body/c00/def_demon_coat_002_col.nutexb",
+        "fighter/captain/model/body/c00/def_demon_coat_002_nor.nutexb",
+        "fighter/captain/model/body/c00/def_demon_coat_002_prm.nutexb"
+	],
+        "fighter/captain/c01": [
+        "fighter/captain/model/body/c01/def_demon_coat_001_col.nutexb",
+        "fighter/captain/model/body/c01/def_demon_coat_001_nor.nutexb",
+        "fighter/captain/model/body/c01/def_demon_coat_001_prm.nutexb",
+        "fighter/captain/model/body/c01/def_demon_coat_002_col.nutexb",
+        "fighter/captain/model/body/c01/def_demon_coat_002_nor.nutexb",
+        "fighter/captain/model/body/c01/def_demon_coat_002_prm.nutexb"
+	],
+        "fighter/captain/c02": [
+        "fighter/captain/model/body/c02/def_demon_coat_001_col.nutexb",
+        "fighter/captain/model/body/c02/def_demon_coat_001_nor.nutexb",
+        "fighter/captain/model/body/c02/def_demon_coat_001_prm.nutexb",
+        "fighter/captain/model/body/c02/def_demon_coat_002_col.nutexb",
+        "fighter/captain/model/body/c02/def_demon_coat_002_nor.nutexb",
+        "fighter/captain/model/body/c02/def_demon_coat_002_prm.nutexb"
+	],
+        "fighter/captain/c03": [
+        "fighter/captain/model/body/c03/def_demon_coat_001_col.nutexb",
+        "fighter/captain/model/body/c03/def_demon_coat_001_nor.nutexb",
+        "fighter/captain/model/body/c03/def_demon_coat_001_prm.nutexb",
+        "fighter/captain/model/body/c03/def_demon_coat_002_col.nutexb",
+        "fighter/captain/model/body/c03/def_demon_coat_002_nor.nutexb",
+        "fighter/captain/model/body/c03/def_demon_coat_002_prm.nutexb"
+	],
+        "fighter/captain/c04": [
+        "fighter/captain/model/body/c04/def_demon_coat_001_col.nutexb",
+        "fighter/captain/model/body/c04/def_demon_coat_001_nor.nutexb",
+        "fighter/captain/model/body/c04/def_demon_coat_001_prm.nutexb",
+        "fighter/captain/model/body/c04/def_demon_coat_002_col.nutexb",
+        "fighter/captain/model/body/c04/def_demon_coat_002_nor.nutexb",
+        "fighter/captain/model/body/c04/def_demon_coat_002_prm.nutexb"
+	],
+        "fighter/captain/c05": [
+        "fighter/captain/model/body/c05/def_demon_coat_001_col.nutexb",
+        "fighter/captain/model/body/c05/def_demon_coat_001_nor.nutexb",
+        "fighter/captain/model/body/c05/def_demon_coat_001_prm.nutexb",
+        "fighter/captain/model/body/c05/def_demon_coat_002_col.nutexb",
+        "fighter/captain/model/body/c05/def_demon_coat_002_nor.nutexb",
+        "fighter/captain/model/body/c05/def_demon_coat_002_prm.nutexb"
+	],
+        "fighter/captain/c06": [
+        "fighter/captain/model/body/c06/def_demon_coat_001_col.nutexb",
+        "fighter/captain/model/body/c06/def_demon_coat_001_nor.nutexb",
+        "fighter/captain/model/body/c06/def_demon_coat_001_prm.nutexb",
+        "fighter/captain/model/body/c06/def_demon_coat_002_col.nutexb",
+        "fighter/captain/model/body/c06/def_demon_coat_002_nor.nutexb",
+        "fighter/captain/model/body/c06/def_demon_coat_002_prm.nutexb"
+	],
+        "fighter/captain/c07": [
+        "fighter/captain/model/body/c07/def_demon_coat_001_col.nutexb",
+        "fighter/captain/model/body/c07/def_demon_coat_001_nor.nutexb",
+        "fighter/captain/model/body/c07/def_demon_coat_001_prm.nutexb",
+        "fighter/captain/model/body/c07/def_demon_coat_002_col.nutexb",
+        "fighter/captain/model/body/c07/def_demon_coat_002_nor.nutexb",
+        "fighter/captain/model/body/c07/def_demon_coat_002_prm.nutexb"
+	]
+    }
+}
