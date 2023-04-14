@@ -1,0 +1,7 @@
+display_name="Ike (Smash 4 Purple and Brown)"
+authors = "Blaze240"
+version = "1.0.0"
+description = """
+Smash 4 port of the brown and purple palette for Radiant Dawn Ike. Goes over c05 by default.
+"""
+category="Fighter"

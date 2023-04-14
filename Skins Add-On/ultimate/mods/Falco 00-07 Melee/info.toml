@@ -1,0 +1,7 @@
+display_name = "Melee Falco"
+authors = "Nanobuds"
+version = "1.0"
+description = """
+Melee HD?
+"""
+category = "Fighter"

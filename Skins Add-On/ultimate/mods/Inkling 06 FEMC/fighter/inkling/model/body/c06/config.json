@@ -1,0 +1,9 @@
+{
+    "new-dir-files": {
+        "fighter/inkling/c06": [
+            "fighter/inkling/model/body/c06/def_inkling_c06_004_col.nutexb",
+            "fighter/inkling/model/body/c06/def_inkling_c06_004_nor.nutexb",
+            "fighter/inkling/model/body/c06/def_inkling_c06_004_prm.nutexb"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"new-dir-files": {
+		"fighter/shizue/c03": [
+			"fighter/shizue/model/body/c03/def_shizue_001_col.nutexb",
+			"fighter/shizue/model/body/c03/def_shizue_001_nor.nutexb",
+			"fighter/shizue/model/body/c03/def_shizue_001_prm.nutexb"
+		],
+		"fighter/shizue/c05": [
+			"fighter/shizue/model/body/c05/def_shizue_001_col.nutexb",
+			"fighter/shizue/model/body/c05/def_shizue_001_nor.nutexb",
+			"fighter/shizue/model/body/c05/def_shizue_001_prm.nutexb"
+		]
+	}
+}

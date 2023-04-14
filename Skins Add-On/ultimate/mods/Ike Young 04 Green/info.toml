@@ -1,0 +1,7 @@
+display_name="Ike (Brawl Green)"
+authors = "Blaze240"
+version = "1.0.0"
+description = """
+Brawl port of the green palette for Path of Radiance Ike. Goes over c04 by default.
+"""
+category="Fighter"
