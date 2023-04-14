@@ -1,0 +1,58 @@
+{
+    "new-dir-files": {
+        "fighter/jack/c01": [
+            "effect/fighter/jack/ef_jack_c01.eff",
+            "effect/fighter/jack/trail_c01/tex_jack_sword1.nutexb",
+            "effect/fighter/jack/trail_c01/tex_jack_sword2.nutexb",
+            "effect/fighter/jack/trail_c01/tex_jack_sword3.nutexb",
+            "effect/fighter/jack/model/m_jackresultline_c01/c00/model.nuanmb",
+            "effect/fighter/jack/model/m_jackresultline_c01/c00/model.nuhlpb",
+            "effect/fighter/jack/model/m_jackresultline_c01/c00/model.numatb",
+            "effect/fighter/jack/model/m_jackresultline_c01/c00/model.numdlb",
+            "effect/fighter/jack/model/m_jackresultline_c01/c00/model.nusktb",
+            "effect/fighter/jack/model/m_jackresultline_c01/c00/model.nusrcmdlb",
+            "effect/fighter/jack/model/m_jackresultline_c01/c00/model.xmb"
+        ],
+	"fighter/jack/c02": [
+            "effect/fighter/jack/ef_jack_c02.eff",
+            "effect/fighter/jack/trail_c02/tex_jack_sword1.nutexb",
+            "effect/fighter/jack/trail_c02/tex_jack_sword2.nutexb",
+            "effect/fighter/jack/trail_c02/tex_jack_sword3.nutexb",
+            "effect/fighter/jack/model/m_jackresultline_c02/c00/model.nuanmb",
+            "effect/fighter/jack/model/m_jackresultline_c02/c00/model.nuhlpb",
+            "effect/fighter/jack/model/m_jackresultline_c02/c00/model.numatb",
+            "effect/fighter/jack/model/m_jackresultline_c02/c00/model.numdlb",
+            "effect/fighter/jack/model/m_jackresultline_c02/c00/model.nusktb",
+            "effect/fighter/jack/model/m_jackresultline_c02/c00/model.nusrcmdlb",
+            "effect/fighter/jack/model/m_jackresultline_c02/c00/model.xmb"
+        ],
+	 "fighter/jack/c03": [
+            "effect/fighter/jack/ef_jack_c03.eff",
+            "effect/fighter/jack/trail_c03/tex_jack_sword1.nutexb",
+            "effect/fighter/jack/trail_c03/tex_jack_sword2.nutexb",
+            "effect/fighter/jack/trail_c03/tex_jack_sword3.nutexb",
+            "effect/fighter/jack/model/m_jackresultline_c03/c00/model.nuanmb",
+            "effect/fighter/jack/model/m_jackresultline_c03/c00/model.nuhlpb",
+            "effect/fighter/jack/model/m_jackresultline_c03/c00/model.numatb",
+            "effect/fighter/jack/model/m_jackresultline_c03/c00/model.numdlb",
+            "effect/fighter/jack/model/m_jackresultline_c03/c00/model.nusktb",
+            "effect/fighter/jack/model/m_jackresultline_c03/c00/model.nusrcmdlb",
+            "effect/fighter/jack/model/m_jackresultline_c03/c00/model.xmb"
+        ],
+	"fighter/jack/c04": [
+            "effect/fighter/jack/ef_jack_c04.eff",
+            "effect/fighter/jack/trail_c04/tex_jack_sword1.nutexb",
+            "effect/fighter/jack/trail_c04/tex_jack_sword2.nutexb",
+            "effect/fighter/jack/trail_c04/tex_jack_sword3.nutexb",
+            "effect/fighter/jack/model/m_jackresultline_c04/c00/model.nuanmb",
+            "effect/fighter/jack/model/m_jackresultline_c04/c00/model.nuhlpb",
+            "effect/fighter/jack/model/m_jackresultline_c04/c00/model.numatb",
+            "effect/fighter/jack/model/m_jackresultline_c04/c00/model.numdlb",
+            "effect/fighter/jack/model/m_jackresultline_c04/c00/model.nusktb",
+            "effect/fighter/jack/model/m_jackresultline_c04/c00/model.nusrcmdlb",
+            "effect/fighter/jack/model/m_jackresultline_c04/c00/model.xmb"
+        ]
+	
+
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "new-dir-files": {
+        "fighter/jack/c06": [
+            "fighter/jack/model/body/c06/def_jack_001_col.nutexb",
+            "fighter/jack/model/body/c06/def_jack_001_nor.nutexb",
+            "fighter/jack/model/body/c06/def_jack_001_prm.nutexb"
+        ]
+    }
+}
