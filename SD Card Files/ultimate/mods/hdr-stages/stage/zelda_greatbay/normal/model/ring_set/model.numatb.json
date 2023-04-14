@@ -1,0 +1,3008 @@
+{
+  "data": {
+    "Matl": {
+      "major_version": 1,
+      "minor_version": 6,
+      "entries": [
+        {
+          "material_label": "ShaderfxShader126",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_wall_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_wall_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_wall_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring02_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008000000081_opaque"
+        },
+        {
+          "material_label": "ink",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler7",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "ClampToEdge",
+                      "wrapt": "ClampToEdge",
+                      "wrapr": "ClampToEdge",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture7",
+                "param": {
+                  "data": {
+                    "MatlString": "reflection_cubemap"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_1600000008100280_opaque"
+        },
+        {
+          "material_label": "sfx_labo_stone",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_stone_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_stone_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler5",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture5",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_stone_emi"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_stone_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector3",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 0.5,
+                      "y": 0.5,
+                      "z": 0.5,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 0.65,
+                      "y": 0.65,
+                      "z": 0.65,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_000000800e000281_opaque"
+        },
+        {
+          "material_label": "ShaderfxShader133",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_plate_all_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000000008000280_opaque"
+        },
+        {
+          "material_label": "sfx_labo_floor",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": -1.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_floor_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": -1.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_floor_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_floor_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_000000800c000281_opaque"
+        },
+        {
+          "material_label": "ShaderfxShader134_labo_all",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_all_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_all_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_all_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector42",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 0.5,
+                      "y": 1.0,
+                      "z": 0.5,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_00000080080002a1_opaque"
+        },
+        {
+          "material_label": "sfx_labo_ladder",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_ladder_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_ladder_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_ladder_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_000000800c000281_opaque"
+        },
+        {
+          "material_label": "sfx_labo_inner_floor",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_floor_inner_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_floor_inner_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_floor_inner_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring02_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.2,
+                      "y": 1.2,
+                      "z": 1.2,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008000880281_opaque"
+        },
+        {
+          "material_label": "sfx_labo_window_glass",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_all_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_all_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler7",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "ClampToEdge",
+                      "wrapt": "ClampToEdge",
+                      "wrapr": "ClampToEdge",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture7",
+                "param": {
+                  "data": {
+                    "MatlString": "ibl_Zelda_Greatbay_cubemap_0_panorama_cube_specular"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 2.0,
+                      "y": 2.0,
+                      "z": 2.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008008800288_opaque"
+        },
+        {
+          "material_label": "sfx_labo_leg1",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_leg_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_leg_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_leg_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring02_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008000880281_opaque"
+        },
+        {
+          "material_label": "sfx_labo_leg_under",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_leg_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_leg_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_leg_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring02_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 0.388,
+                      "y": 0.5,
+                      "z": 0.46984586,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector37",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 100.0,
+                      "y": 200.0,
+                      "z": 150.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector38",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 0.0,
+                      "y": 90.0,
+                      "z": 0.0,
+                      "w": 0.2
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector39",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.05,
+                      "z": 0.3,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomFloat18",
+                "param": {
+                  "data": {
+                    "Float": 3000.0
+                  },
+                  "data_type": 1
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008020800281_opaque"
+        },
+        {
+          "material_label": "sfx_labo_jar",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_jar_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector42",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 0.5,
+                      "y": 1.0,
+                      "z": 0.5,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector47",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 0.0,
+                      "y": 0.3,
+                      "z": 1.0,
+                      "w": 0.3
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_00000081080022a0_opaque"
+        },
+        {
+          "material_label": "sfx_labo_floor_white",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": -1.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_floor_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": -1.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_floor_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_floor_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 2.0,
+                      "y": 1.3441476,
+                      "z": 0.78199995,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_000000800c000281_opaque"
+        },
+        {
+          "material_label": "labo_door1",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_labo_door_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "Greatbay_ring02_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000000000000080_opaque"
+        }
+      ]
+    }
+  }
+}

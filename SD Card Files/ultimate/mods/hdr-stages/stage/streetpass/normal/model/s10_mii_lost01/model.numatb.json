@@ -1,0 +1,540 @@
+{
+  "data": {
+    "Matl": {
+      "major_version": 1,
+      "minor_version": 6,
+      "entries": [
+        {
+          "material_label": "king_head",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler7",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "ClampToEdge",
+                      "wrapt": "ClampToEdge",
+                      "wrapr": "ClampToEdge",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "s10_mii_hat_prince_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "default_Normal"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "s10_mii_hat_prince_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture7",
+                "param": {
+                  "data": {
+                    "MatlString": "StreetPass_cube_spc"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "king_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008008080288_opaque"
+        },
+        {
+          "material_label": "mii_favcolor",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler7",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "ClampToEdge",
+                      "wrapt": "ClampToEdge",
+                      "wrapr": "ClampToEdge",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "s10_mii_body_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "default_Normal"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "s10_mii_body_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture7",
+                "param": {
+                  "data": {
+                    "MatlString": "StreetPass_cube_spc"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "king_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008008080288_opaque"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "Matl": {
+      "major_version": 1,
+      "minor_version": 6,
+      "entries": [
+        {
+          "material_label": "sfx_battlefield_linegainA",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "Sampler5",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 2.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture5",
+                "param": {
+                  "data": {
+                    "MatlString": "battlefield_linegainA_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "CustomVector3",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 2.0,
+                      "y": 1.3125666,
+                      "z": 0.99399996,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector6",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.1,
+                      "z": 0.3,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 2.0,
+                      "y": 2.0,
+                      "z": 2.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector29",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomBoolean5",
+                "param": {
+                  "data": {
+                    "Boolean": 1
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000000800080100_opaque"
+        }
+      ]
+    }
+  }
+}

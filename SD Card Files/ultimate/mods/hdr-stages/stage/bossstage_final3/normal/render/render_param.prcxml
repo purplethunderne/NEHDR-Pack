@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<struct>
+  <struct hash="effect_plane_param">
+    <bool hash="flag_">false</bool>
+    <float hash="min_x_">-200</float>
+    <float hash="max_x_">200</float>
+    <float hash="min_y_">380</float>
+    <float hash="max_y_">385.2</float>
+    <float hash="min_z_">-30</float>
+    <float hash="max_z_">30</float>
+  </struct>
+  <struct hash="effect_stage_light_param">
+    <float hash="light_color_h">28</float>
+  </struct>
+  <float hash="lerp_far_distance">300</float>
+  <float hash="0x12dfc12bda">25</float>
+  <float hash="0x12a8c61b4c">-45</float>
+  <struct hash="0x1576c10676">
+    <float hash="h">45</float>
+    <float hash="s">0.5</float>
+    <float hash="v">1</float>
+  </struct>
+  <struct hash="0x14a4d1c131">
+    <float hash="h">50</float>
+    <float hash="s">0.25</float>
+    <float hash="v">0.8</float>
+  </struct>
+  <float hash="0x18cc711e13">-15</float>
+</struct>

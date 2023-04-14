@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<struct>
+  <struct hash="depth_of_field">
+    <float hash="focus_end">100</float>
+  </struct>
+</struct>

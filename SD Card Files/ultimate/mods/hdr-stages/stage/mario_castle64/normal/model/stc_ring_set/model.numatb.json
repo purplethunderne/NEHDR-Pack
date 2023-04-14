@@ -1,0 +1,3182 @@
+{
+  "data": {
+    "Matl": {
+      "major_version": 1,
+      "minor_version": 6,
+      "entries": [
+        {
+          "material_label": "BNSMY_mc64_Smario01",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": -1.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": -1.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": -1.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler7",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "ClampToEdge",
+                      "wrapt": "ClampToEdge",
+                      "wrapr": "ClampToEdge",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": -1.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_ring_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_ring_indirect_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "dammy_white8bit_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture7",
+                "param": {
+                  "data": {
+                    "MatlString": "mario_castle64_yuka_cube_specular"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008008888289_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario02_02",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario01_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario01_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario01_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008008888281_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario04a",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "BNSMY_mc64_Smario04a_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000000000088080_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario05a",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler7",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "ClampToEdge",
+                      "wrapt": "ClampToEdge",
+                      "wrapr": "ClampToEdge",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario02_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario02_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture7",
+                "param": {
+                  "data": {
+                    "MatlString": "mario_castle64_cube_specular"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008008888288_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario10a",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario02_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000000008088080_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario11",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler7",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "ClampToEdge",
+                      "wrapt": "ClampToEdge",
+                      "wrapr": "ClampToEdge",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario04a_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario05a_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario05a_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture7",
+                "param": {
+                  "data": {
+                    "MatlString": "mario_castle64_cube_specular"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008008088289_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario112_2",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler7",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "ClampToEdge",
+                      "wrapt": "ClampToEdge",
+                      "wrapr": "ClampToEdge",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario11_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario12_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario18a_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture7",
+                "param": {
+                  "data": {
+                    "MatlString": "mario_castle64_cube_specular"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008008888289_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario112b",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler7",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "ClampToEdge",
+                      "wrapt": "ClampToEdge",
+                      "wrapr": "ClampToEdge",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario21_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario173a_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "#replace_cubemap"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture7",
+                "param": {
+                  "data": {
+                    "MatlString": "mario_castle64_cube_specular"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008008888289_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario12_01",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario10a_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000000008088280_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario12_02",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 0.8643216,
+                      "y": 0.41893205,
+                      "z": 0.33794978,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario10a_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000000000088080_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario173a",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": -1.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": -1.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smariopa_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000000008088080_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario18a",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector3",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler5",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "MirroredRepeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture5",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario11_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_00000000080c8100_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_Smario21",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_smario11_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000000008088080_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_SmarioPa",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector27",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 0.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "Repeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_white32_col"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000000008088280_opaque"
+        },
+        {
+          "material_label": "BNSMY_mc64_carpet",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomBoolean1",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomBoolean12",
+                "param": {
+                  "data": {
+                    "Boolean": 0
+                  },
+                  "data_type": 2
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler0",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "MirroredRepeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler4",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "MirroredRepeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler6",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "MirroredRepeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Sampler9",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "MirroredRepeat",
+                      "wrapt": "Repeat",
+                      "wrapr": "Repeat",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture0",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_nor"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture4",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_prm"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture6",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_move_bake_lit"
+                  },
+                  "data_type": 11
+                }
+              },
+              {
+                "param_id": "Texture9",
+                "param": {
+                  "data": {
+                    "MatlString": "mc64_carpet_col"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_0000008008080280_opaque"
+        },
+        {
+          "material_label": "sfx_INK_shader_",
+          "attributes": {
+            "Attributes16": [
+              {
+                "param_id": "BlendState0",
+                "param": {
+                  "data": {
+                    "BlendState": {
+                      "source_color": "One",
+                      "unk2": 0,
+                      "destination_color": "Zero",
+                      "unk4": 1,
+                      "unk5": 0,
+                      "unk6": 0,
+                      "unk7": 0,
+                      "unk8": 0,
+                      "unk9": 0,
+                      "unk10": 5
+                    }
+                  },
+                  "data_type": 17
+                }
+              },
+              {
+                "param_id": "CustomVector13",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "CustomVector8",
+                "param": {
+                  "data": {
+                    "Vector4": {
+                      "x": 0.7,
+                      "y": 0.7,
+                      "z": 0.7,
+                      "w": 1.0
+                    }
+                  },
+                  "data_type": 5
+                }
+              },
+              {
+                "param_id": "RasterizerState0",
+                "param": {
+                  "data": {
+                    "RasterizerState": {
+                      "fill_mode": "Solid",
+                      "cull_mode": "Back",
+                      "depth_bias": 0.0,
+                      "unk4": 0.0,
+                      "unk5": 0.0,
+                      "unk6": 16777217
+                    }
+                  },
+                  "data_type": 18
+                }
+              },
+              {
+                "param_id": "Sampler7",
+                "param": {
+                  "data": {
+                    "Sampler": {
+                      "wraps": "ClampToEdge",
+                      "wrapt": "ClampToEdge",
+                      "wrapr": "ClampToEdge",
+                      "min_filter": "LinearMipmapLinear",
+                      "mag_filter": "Linear",
+                      "texture_filtering_type": "Default2",
+                      "border_color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                      },
+                      "unk11": 0,
+                      "unk12": 2139095022,
+                      "lod_bias": 0.0,
+                      "max_anisotropy": 2
+                    }
+                  },
+                  "data_type": 14
+                }
+              },
+              {
+                "param_id": "Texture7",
+                "param": {
+                  "data": {
+                    "MatlString": "#replace_cubemap"
+                  },
+                  "data_type": 11
+                }
+              }
+            ]
+          },
+          "shader_label": "SFX_PBS_1600000009800240_opaque"
+        }
+      ]
+    }
+  }
+}

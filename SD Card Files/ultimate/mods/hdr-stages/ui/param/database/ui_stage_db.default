@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<struct>
+  <list hash="db_root">
+    <hash40 index="0">0x054ff4f23f</hash40>
+    <hash40 index="1">0x054ff4f23f</hash40>
+    <hash40 index="2">0x054ff4f23f</hash40>
+    <hash40 index="3">0x054ff4f23f</hash40>
+    <struct index="4">
+      <string hash="name_id">BattleField</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="5">
+      <string hash="name_id">BattleFieldL</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="6">
+      <string hash="name_id">End</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="7">
+      <string hash="name_id">Mario_Castle64</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="8">
+      <string hash="name_id">DK_Jungle</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="9">
+      <string hash="name_id">Zelda_Hyrule</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="10">
+      <string hash="name_id">Yoshi_Story</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="11">
+      <string hash="name_id">Kirby_Pupupu64</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="12">
+      <string hash="name_id">Poke_Yamabuki</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="13">
+      <string hash="name_id">Mario_Past64</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="14">
+      <string hash="name_id">Mario_CastleDx</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="15">
+      <string hash="name_id">Mario_Rainbow</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="16">
+      <string hash="name_id">DK_WaterFall</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="17">
+      <string hash="name_id">DK_Lodge</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="18">
+      <string hash="name_id">Zelda_Greatbay</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="19">
+      <string hash="name_id">Zelda_Temple</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="20">
+      <string hash="name_id">Metroid_ZebesDx</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="21">
+      <string hash="name_id">Yoshi_Yoster</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="22">
+      <string hash="name_id">Yoshi_CartBoard</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="23">
+      <string hash="name_id">Kirby_Fountain</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="24">
+      <string hash="name_id">Kirby_Greens</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="25">
+      <string hash="name_id">Fox_Corneria</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="26">
+      <string hash="name_id">Fox_Venom</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="27">
+      <string hash="name_id">Poke_Stadium</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="28">
+      <string hash="name_id">Mother_Onett</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="29">
+      <string hash="name_id">Mario_PastUsa</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="30">
+      <string hash="name_id">Metroid_Kraid</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="31">
+      <string hash="name_id">Fzero_Bigblue</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="32">
+      <string hash="name_id">Mother_Fourside</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="33">
+      <string hash="name_id">Mario_Dolpic</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="34">
+      <string hash="name_id">Mario_PastX</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="35">
+      <string hash="name_id">Kart_CircuitX</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="36">
+      <string hash="name_id">Wario_Madein</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="37">
+      <string hash="name_id">Zelda_Oldin</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="38">
+      <string hash="name_id">Metroid_Norfair</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="39">
+      <string hash="name_id">Metroid_Orpheon</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="40">
+      <string hash="name_id">Yoshi_Island</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="41">
+      <string hash="name_id">Kirby_Halberd</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="42">
+      <string hash="name_id">Fox_LylatCruise</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="43">
+      <string hash="name_id">Poke_Stadium2</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="44">
+      <string hash="name_id">Fzero_Porttown</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="45">
+      <string hash="name_id">FE_Siege</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="46">
+      <string hash="name_id">Pikmin_Planet</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="47">
+      <string hash="name_id">Animal_Village</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="48">
+      <string hash="name_id">Mother_Newpork</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="49">
+      <string hash="name_id">Ice_Top</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="50">
+      <string hash="name_id">Icarus_SkyWorld</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="51">
+      <string hash="name_id">MG_Shadowmoses</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="52">
+      <string hash="name_id">LuigiMansion</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="53">
+      <string hash="name_id">Zelda_Pirates</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="54">
+      <string hash="name_id">Poke_Tengam</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="55">
+      <string hash="name_id">75m</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="56">
+      <string hash="name_id">MarioBros</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="57">
+      <string hash="name_id">Plankton</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="58">
+      <string hash="name_id">Sonic_Greenhill</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="59">
+      <string hash="name_id">Mario_3DLand</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="60">
+      <string hash="name_id">Mario_NewBros2</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="61">
+      <string hash="name_id">Mario_Paper</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="62">
+      <string hash="name_id">Zelda_Gerudo</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="63">
+      <string hash="name_id">Zelda_Train</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="64">
+      <string hash="name_id">Kirby_Gameboy</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="65">
+      <string hash="name_id">Poke_Unova</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="66">
+      <string hash="name_id">Poke_Tower</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="67">
+      <string hash="name_id">Fzero_Mutecity3DS</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="68">
+      <string hash="name_id">Mother_Magicant</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="69">
+      <string hash="name_id">FE_Arena</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="70">
+      <string hash="name_id">Icarus_Uprising</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="71">
+      <string hash="name_id">Animal_Island</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="72">
+      <string hash="name_id">BalloonFight</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="73">
+      <string hash="name_id">NintenDogs</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="74">
+      <string hash="name_id">StreetPass</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="75">
+      <string hash="name_id">Tomodachi</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="76">
+      <string hash="name_id">Pictochat2</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="77">
+      <string hash="name_id">Mario_Uworld</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="78">
+      <string hash="name_id">Mario_Galaxy</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="79">
+      <string hash="name_id">Kart_CircuitFor</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="80">
+      <string hash="name_id">Zelda_Skyward</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="81">
+      <string hash="name_id">Kirby_Cave</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="82">
+      <string hash="name_id">Poke_Kalos</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="83">
+      <string hash="name_id">FE_Colloseum</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="84">
+      <string hash="name_id">FlatZoneX</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="85">
+      <string hash="name_id">Icarus_Angeland</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="86">
+      <string hash="name_id">Wario_Gamer</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="87">
+      <string hash="name_id">Pikmin_Garden</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="88">
+      <string hash="name_id">Animal_City</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="89">
+      <string hash="name_id">WiiFit</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="90">
+      <string hash="name_id">PunchOutSB</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <hash40 index="91">0x054ff4f23f</hash40>
+    <struct index="92">
+      <string hash="name_id">Xeno_Gaur</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="93">
+      <string hash="name_id">DuckHunt</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="94">
+      <string hash="name_id">WreckingCrew</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="95">
+      <string hash="name_id">Pilotwings</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="96">
+      <string hash="name_id">WufuIsland</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="97">
+      <string hash="name_id">Sonic_Windyhill</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="98">
+      <string hash="name_id">Rock_Wily</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="99">
+      <string hash="name_id">Pac_Land</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="100">
+      <string hash="name_id">Mario_Maker</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="101">
+      <string hash="name_id">SF_Suzaku</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="102">
+      <string hash="name_id">FF_Midgar</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="103">
+      <string hash="name_id">Bayo_Clock</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="104">
+      <string hash="name_id">Mario_Odyssey</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="105">
+      <string hash="name_id">Zelda_Tower</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="106">
+      <string hash="name_id">Spla_Parking</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="107">
+      <string hash="name_id">Dracula_Castle</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <hash40 index="108">0x054ff4f23f</hash40>
+    <struct index="109">
+      <string hash="name_id">Training</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <hash40 index="110">0x054ff4f23f</hash40>
+    <hash40 index="111">0x054ff4f23f</hash40>
+    <hash40 index="112">0x054ff4f23f</hash40>
+    <hash40 index="113">0x054ff4f23f</hash40>
+    <hash40 index="114">0x054ff4f23f</hash40>
+    <hash40 index="115">0x054ff4f23f</hash40>
+    <hash40 index="116">0x054ff4f23f</hash40>
+    <hash40 index="117">0x054ff4f23f</hash40>
+    <hash40 index="118">0x054ff4f23f</hash40>
+    <hash40 index="119">0x054ff4f23f</hash40>
+    <hash40 index="120">0x054ff4f23f</hash40>
+    <hash40 index="121">0x054ff4f23f</hash40>
+    <hash40 index="122">0x054ff4f23f</hash40>
+    <hash40 index="123">0x054ff4f23f</hash40>
+    <hash40 index="124">0x054ff4f23f</hash40>
+    <struct index="125">
+      <string hash="name_id">Jack_Mementoes</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="126">
+      <string hash="name_id">Brave_Altar</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="127">
+      <string hash="name_id">Buddy_Spiral</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="128">
+      <string hash="name_id">Dolly_Stadium</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="129">
+      <string hash="name_id">FE_Shrine</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="130">
+      <string hash="name_id">Tantan_Spring</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="131">
+      <string hash="name_id">Pickel_World</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="132">
+      <string hash="name_id">FF_Cave</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="133">
+      <string hash="name_id">Xeno_Alst</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="134">
+      <string hash="name_id">Demon_Dojo</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="135">
+      <string hash="name_id">Trail_Castle</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <struct index="136">
+      <string hash="name_id">BattleFieldS</string>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+  </list>
+</struct>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<struct>
+  <struct hash="shadowmap_effect_param">
+    <uint hash="resolution_idx">1</uint>
+  </struct>
+  <struct hash="depth_of_field">
+    <float hash="focus_start">10</float>
+    <float hash="focus_end">2500</float>
+  </struct>
+  <list hash="sun_shaft_param">
+    <struct index="0">
+      <float hash="front_rate_">3.5</float>
+      <float hash="light_radius_">800</float>
+      <float hash="light_center_radius_">100</float>
+      <float hash="light_pos_x">300</float>
+      <float hash="light_pos_y">400</float>
+      <float hash="light_pos_z">-1000</float>
+      <float hash="light_center_color_r">0.2</float>
+      <float hash="light_center_color_g">0.18</float>
+      <float hash="light_center_color_b">0.3</float>
+    </struct>
+  </list>
+  <struct hash="effect_plane_param">
+    <float hash="min_y_">-4</float>
+    <float hash="max_y_">0.1</float>
+    <float hash="min_z_">-32</float>
+    <float hash="max_z_">23</float>
+  </struct>
+  <list hash="tone_curve_param">
+    <struct index="0">
+      <float hash="0x0f237cb2db">0.1</float>
+      <float hash="0x0f547b824d">0.1</float>
+      <float hash="0x11d95813f3">0.999</float>
+      <float hash="0x11ae5f2365">0.999</float>
+    </struct>
+  </list>
+  <struct hash="effect_stage_light_param">
+    <float hash="light_color_h">35</float>
+    <float hash="light_color_s">0.5</float>
+    <float hash="light_color_v">1</float>
+  </struct>
+  <float hash="lerp_near_distance">40</float>
+  <float hash="lerp_far_distance">95</float>
+  <float hash="0x12dfc12bda">40</float>
+  <struct hash="0x1576c10676">
+    <float hash="v">0.2</float>
+  </struct>
+  <struct hash="0x14a4d1c131">
+    <float hash="v">0.2</float>
+  </struct>
+  <float hash="0x18775ab66d">0.021</float>
+  <float hash="0x138d115d23">0.8</float>
+</struct>
