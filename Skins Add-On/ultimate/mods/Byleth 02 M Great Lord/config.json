@@ -1,0 +1,39 @@
+{
+    "new-dir-files": {
+        "fighter/master/c02": [
+            "fighter/master/model/body/c02/alp_master_001_col.nutexb",
+            "fighter/master/model/body/c02/alp_master_001_nor.nutexb",
+            "fighter/master/model/body/c02/alp_master_001_prm.nutexb",
+            "fighter/master/model/body/c02/alp_master_002_col.nutexb",
+            "fighter/master/model/body/c02/alp_master_002_nor.nutexb",
+            "fighter/master/model/body/c02/alp_master_002_prm.nutexb",
+            "fighter/master/model/body/c02/alp_master_003_col.nutexb",
+            "fighter/master/model/body/c02/alp_master_003_nor.nutexb",
+            "fighter/master/model/body/c02/alp_master_003_prm.nutexb",
+            "fighter/master/model/body/c02/def_master_001_col.nutexb",
+            "fighter/master/model/body/c02/def_master_001_nor.nutexb",
+            "fighter/master/model/body/c02/def_master_001_prm.nutexb",
+            "fighter/master/model/body/c02/def_master_002_c06_col.nutexb",
+            "fighter/master/model/body/c02/def_master_002_col.nutexb",
+            "fighter/master/model/body/c02/def_master_002_nor.nutexb",
+            "fighter/master/model/body/c02/def_master_002_prm.nutexb",
+            "fighter/master/model/body/c02/def_master_eyepatch_col.nutexb",
+            "fighter/master/model/body/c02/def_sword_001_col.nutexb",
+            "fighter/master/model/body/c02/def_sword_001_nor.nutexb",
+            "fighter/master/model/body/c02/def_sword_001_prm.nutexb",
+            "fighter/master/model/body/c02/eye_master_b_l_col.nutexb",
+            "fighter/master/model/body/c02/eye_master_b_r_col.nutexb",
+            "fighter/master/model/body/c02/eye_master_g_l_col.nutexb",
+            "fighter/master/model/body/c02/eye_master_g_r_col.nutexb",
+            "fighter/master/model/body/c02/eye_master_w_col.nutexb",
+            "fighter/master/model/body/c02/eye_master_w_nor.nutexb",
+            "fighter/master/model/body/c02/eye_master_w_prm.nutexb",
+            "fighter/master/model/body/c02/skin_master_001_col.nutexb",
+            "fighter/master/model/body/c02/skin_master_001_nor.nutexb",
+            "fighter/master/model/body/c02/skin_master_001_prm.nutexb",
+            "fighter/master/model/body/c02/skin_master_002_col.nutexb",
+            "fighter/master/model/body/c02/skin_master_002_nor.nutexb",
+            "fighter/master/model/body/c02/skin_master_002_prm.nutexb"
+        ]
+    }
+}

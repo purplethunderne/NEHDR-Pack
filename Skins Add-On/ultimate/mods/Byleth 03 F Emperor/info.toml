@@ -1,0 +1,7 @@
+display_name="Byleth (Emperor)"
+authors = "Blaze240"
+version = "1.0"
+description = """
+An adaptation of the Emperor Class from Fire Emblem: Three Houses. Goes over c03 by default.
+"""
+category="Fighter"

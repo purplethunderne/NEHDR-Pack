@@ -1,0 +1,7 @@
+display_name="Byleth (Great Lord)"
+authors = "Blaze240"
+version = "1.0"
+description = """
+An adaptation of the Great Lord Class from Fire Emblem: Three Houses. Goes over c02 by default.
+"""
+category="Fighter"
