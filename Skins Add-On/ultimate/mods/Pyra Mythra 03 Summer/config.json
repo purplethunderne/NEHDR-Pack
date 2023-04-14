@@ -1,0 +1,24 @@
+{
+  "new-dir-files": {
+    "fighter/eflame/c03": [
+      "fighter/eflame/model/body/c03/def_summer_flame_001_col.nutexb",
+      "fighter/eflame/model/body/c03/def_summer_flame_001_emi.nutexb",
+      "fighter/eflame/model/body/c03/def_summer_flame_001_nor.nutexb",
+      "fighter/eflame/model/body/c03/def_summer_flame_001_prm.nutexb",
+      "fighter/eflame/model/body/c03/skin_summer_flame_001_col.nutexb",
+      "fighter/eflame/model/body/c03/skin_summer_flame_001_emi.nutexb",
+      "fighter/eflame/model/body/c03/skin_summer_flame_001_nor.nutexb",
+      "fighter/eflame/model/body/c03/skin_summer_flame_001_prm.nutexb"
+    ],
+    "fighter/elight/c03": [
+      "fighter/elight/model/body/c03/def_summer_light_001_col.nutexb",
+      "fighter/elight/model/body/c03/def_summer_light_001_emi.nutexb",
+      "fighter/elight/model/body/c03/def_summer_light_001_nor.nutexb",
+      "fighter/elight/model/body/c03/def_summer_light_001_prm.nutexb",
+      "fighter/elight/model/body/c03/skin_summer_light_001_col.nutexb",
+      "fighter/elight/model/body/c03/skin_summer_light_001_emi.nutexb",
+      "fighter/elight/model/body/c03/skin_summer_light_001_nor.nutexb",
+      "fighter/elight/model/body/c03/skin_summer_light_001_prm.nutexb"
+    ]
+  }
+}

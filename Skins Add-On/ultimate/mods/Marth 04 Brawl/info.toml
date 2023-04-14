@@ -1,0 +1,9 @@
+display_name="Marth (Melee Era) [c04]"
+authors = "Hanxulz"
+description="""
+
+Marth (マルス, Marusu) is an unlockable character in Super Smash Bros. Brawl. His return to the series was announced on the Smash Bros. DOJO on February 5th, 2008.
+He is ranked 5th on the current Brawl tier list due to his excellent overall disjointed range and speed in both frame data, good mobility, power when he lands an attack on the tip of his sword (in particular his forward smash and down aerial), edgeguard ability, stats, and match-ups (only Meta Knight, King Dedede and Diddy Kong are disadvantageous match-ups, where they only hold a small advantage). Marth is regarded by some as the best character in Brawl with Meta Knight banned. However, as in Melee, he maintains a lack of a projectile and mediocre horizontal recovery. His advantages, however, largely compensate for this.
+"""
+version="1.0.0"
+category="Fighter"

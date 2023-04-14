@@ -1,0 +1,29 @@
+{
+    "new-dir-files": {
+        "fighter/mario/c01": [
+            "fighter/mario/model/body/c01/def_mario_002_col.nutexb",
+            "fighter/mario/model/body/c01/def_mario_002_nor.nutexb",
+            "fighter/mario/model/body/c01/def_mario_002_prm.nutexb"
+        ],
+        "fighter/mario/c02": [
+            "fighter/mario/model/body/c02/def_mario_002_col.nutexb",
+            "fighter/mario/model/body/c02/def_mario_002_nor.nutexb",
+            "fighter/mario/model/body/c02/def_mario_002_prm.nutexb"
+        ],
+        "fighter/mario/c03": [
+            "fighter/mario/model/body/c03/def_mario_002_col.nutexb",
+            "fighter/mario/model/body/c03/def_mario_002_nor.nutexb",
+            "fighter/mario/model/body/c03/def_mario_002_prm.nutexb"
+        ],
+        "fighter/mario/c04": [
+            "fighter/mario/model/body/c04/def_mario_002_col.nutexb",
+            "fighter/mario/model/body/c04/def_mario_002_nor.nutexb",
+            "fighter/mario/model/body/c04/def_mario_002_prm.nutexb"
+        ],
+        "fighter/mario/c05": [
+            "fighter/mario/model/body/c05/def_mario_002_col.nutexb",
+            "fighter/mario/model/body/c05/def_mario_002_nor.nutexb",
+            "fighter/mario/model/body/c05/def_mario_002_prm.nutexb"
+        ]
+    }
+}

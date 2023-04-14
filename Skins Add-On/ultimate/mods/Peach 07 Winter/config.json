@@ -1,0 +1,11 @@
+{
+    "new-dir-files": {
+        "fighter/peach/c07": [
+			"fighter/peach/model/body/c07/def_peach_002_col.nutexb",
+            "fighter/peach/model/body/c07/def_peach_002_nor.nutexb",
+            "fighter/peach/model/body/c07/def_peach_002_prm.nutexb",
+			"fighter/peach/model/body/c07/def_peach_003_col.nutexb"
+
+        ]
+    }
+}
