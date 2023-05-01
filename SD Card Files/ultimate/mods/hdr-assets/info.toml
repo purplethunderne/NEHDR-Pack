@@ -1,9 +1,0 @@
-display_name="HDR Assets"
-authors = "HDR Dev Team"
-description="""
-HDR Assets contains nessesary changes for new animations,
-UI, tips, and a vast amount of character changes.
-
-* Only needed while playing HDR, disabling will cause bugs!
-"""
-category = "Param"

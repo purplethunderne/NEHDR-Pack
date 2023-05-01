@@ -1,7 +1,0 @@
-display_name="Ike (Smash 4 Greil)"
-authors = "Blaze240"
-version = "1.0.0"
-description = """
-Smash 4 port of the Greil palette for Radiant Dawn Ike. Goes over c00 by default.
-"""
-category="Fighter"

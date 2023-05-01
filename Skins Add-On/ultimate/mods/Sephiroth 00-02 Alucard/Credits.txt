@@ -1,5 +1,0 @@
-ShadowSnake - model, rigging, textures, materials, ui, etc
-Jorge/SunSpirit - renders
-Austin Hicks - sword model (purchased the model on sketchfab)
-Voyager - stock icons
-Segtendo - splash screens

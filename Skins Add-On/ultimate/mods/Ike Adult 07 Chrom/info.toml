@@ -1,7 +1,0 @@
-display_name="Ike (Smash 4 Chrom)"
-authors = "Blaze240"
-version = "1.0.0"
-description = """
-Smash 4 port of the Chrom palette for Radiant Dawn Ike. Goes over c07 by default.
-"""
-category="Fighter"

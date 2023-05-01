@@ -1,7 +1,0 @@
-display_name="Ike (Brawl Gold)"
-authors = "Blaze240"
-version = "1.0.0"
-description = """
-Brawl port of the gold palette for Path of Radiance Ike. Goes over c02 by default.
-"""
-category="Fighter"

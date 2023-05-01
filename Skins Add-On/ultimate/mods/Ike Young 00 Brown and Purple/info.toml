@@ -1,7 +1,0 @@
-display_name="Ike (Brawl Red and Purple)"
-authors = "Blaze240"
-version = "1.0.0"
-description = """
-Brawl port of the purple and red palette for Path of Radiance Ike. Goes over c00 by default.
-"""
-category="Fighter"
